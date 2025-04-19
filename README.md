@@ -1,4 +1,4 @@
-Data Cleaning
+**Data Cleaning**
 
 Summary (Excel):
 1. Handled Missing Values: Used Filter > Blanks on columns to identify and manage missing entries.
